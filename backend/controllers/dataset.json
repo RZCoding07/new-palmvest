@@ -1,0 +1,331 @@
+{
+    "status": 200,
+    "message": "success",
+    "datetime": 1755410080,
+    "data": [
+        {
+            "kode_plant": "SG01",
+            "nama_plant": "PG KWALA MADU",
+            "jenis_plant": "1",
+            "regional_code": "01",
+            "regional_name": "SUMATERA I",
+            "longitute": "0",
+            "latitude": "0"
+        },
+        {
+            "kode_plant": "SG02",
+            "nama_plant": "PG SEI SEMAYANG",
+            "jenis_plant": "1",
+            "regional_code": "01",
+            "regional_name": "SUMATERA I",
+            "longitute": "0",
+            "latitude": "0"
+        },
+        {
+            "kode_plant": "SG03",
+            "nama_plant": "PG BUNGA MAYANG",
+            "jenis_plant": "1",
+            "regional_code": "02",
+            "regional_name": "SUMATERA II",
+            "longitute": "0",
+            "latitude": "0"
+        },
+        {
+            "kode_plant": "SG04",
+            "nama_plant": "PG CINTA MANIS",
+            "jenis_plant": "1",
+            "regional_code": "02",
+            "regional_name": "SUMATERA II",
+            "longitute": "0",
+            "latitude": "0"
+        },
+        {
+            "kode_plant": "SG05",
+            "nama_plant": "PG PANGKA",
+            "jenis_plant": "1",
+            "regional_code": "03",
+            "regional_name": "JAWA TENGAH",
+            "longitute": "0",
+            "latitude": "0"
+        },
+        {
+            "kode_plant": "SG06",
+            "nama_plant": "PG SRAGI",
+            "jenis_plant": "1",
+            "regional_code": "03",
+            "regional_name": "JAWA TENGAH",
+            "longitute": "0",
+            "latitude": "0"
+        },
+        {
+            "kode_plant": "SG07",
+            "nama_plant": "PG RENDENG",
+            "jenis_plant": "1",
+            "regional_code": "03",
+            "regional_name": "JAWA TENGAH",
+            "longitute": "0",
+            "latitude": "0"
+        },
+        {
+            "kode_plant": "SG08",
+            "nama_plant": "PG MOJO",
+            "jenis_plant": "1",
+            "regional_code": "03",
+            "regional_name": "JAWA TENGAH",
+            "longitute": "0",
+            "latitude": "0"
+        },
+        {
+            "kode_plant": "SG09",
+            "nama_plant": "PG TASIKMADU",
+            "jenis_plant": "1",
+            "regional_code": "03",
+            "regional_name": "JAWA TENGAH",
+            "longitute": "0",
+            "latitude": "0"
+        },
+        {
+            "kode_plant": "SG10",
+            "nama_plant": "PG KREMBONG",
+            "jenis_plant": "1",
+            "regional_code": "05",
+            "regional_name": "JATIM II",
+            "longitute": "0",
+            "latitude": "0"
+        },
+        {
+            "kode_plant": "SG11",
+            "nama_plant": "PG GEMPOL KEREP",
+            "jenis_plant": "1",
+            "regional_code": "05",
+            "regional_name": "JATIM II",
+            "longitute": "0",
+            "latitude": "0"
+        },
+        {
+            "kode_plant": "SG12",
+            "nama_plant": "PG DJOMBANG BARU",
+            "jenis_plant": "1",
+            "regional_code": "05",
+            "regional_name": "JATIM II",
+            "longitute": "0",
+            "latitude": "0"
+        },
+        {
+            "kode_plant": "SG13",
+            "nama_plant": "PG TJUKIR",
+            "jenis_plant": "1",
+            "regional_code": "04",
+            "regional_name": "JATIM I",
+            "longitute": "0",
+            "latitude": "0"
+        },
+        {
+            "kode_plant": "SG14",
+            "nama_plant": "PG LESTARI",
+            "jenis_plant": "1",
+            "regional_code": "05",
+            "regional_name": "JATIM II",
+            "longitute": "0",
+            "latitude": "0"
+        },
+        {
+            "kode_plant": "SG15",
+            "nama_plant": "PG MERITJAN",
+            "jenis_plant": "1",
+            "regional_code": "04",
+            "regional_name": "JATIM I",
+            "longitute": "0",
+            "latitude": "0"
+        },
+        {
+            "kode_plant": "SG16",
+            "nama_plant": "PG PESANTREN BARU",
+            "jenis_plant": "1",
+            "regional_code": "04",
+            "regional_name": "JATIM I",
+            "longitute": "0",
+            "latitude": "0"
+        },
+        {
+            "kode_plant": "SG17",
+            "nama_plant": "PG NGADIREJO",
+            "jenis_plant": "1",
+            "regional_code": "04",
+            "regional_name": "JATIM I",
+            "longitute": "0",
+            "latitude": "0"
+        },
+        {
+            "kode_plant": "SG18",
+            "nama_plant": "PG MOJOPANGGUNG",
+            "jenis_plant": "1",
+            "regional_code": "04",
+            "regional_name": "JATIM I",
+            "longitute": "0",
+            "latitude": "0"
+        },
+        {
+            "kode_plant": "SG19",
+            "nama_plant": "PG SOEDHONO",
+            "jenis_plant": "1",
+            "regional_code": "03",
+            "regional_name": "JAWA TENGAH",
+            "longitute": "0",
+            "latitude": "0"
+        },
+        {
+            "kode_plant": "SG20",
+            "nama_plant": "PG POERWODADIE",
+            "jenis_plant": "1",
+            "regional_code": "03",
+            "regional_name": "JAWA TENGAH",
+            "longitute": "0",
+            "latitude": "0"
+        },
+        {
+            "kode_plant": "SG21",
+            "nama_plant": "PG REDJOSARIE",
+            "jenis_plant": "1",
+            "regional_code": "03",
+            "regional_name": "JAWA TENGAH",
+            "longitute": "0",
+            "latitude": "0"
+        },
+        {
+            "kode_plant": "SG22",
+            "nama_plant": "PG PAGOTTAN",
+            "jenis_plant": "1",
+            "regional_code": "03",
+            "regional_name": "JAWA TENGAH",
+            "longitute": "0",
+            "latitude": "0"
+        },
+        {
+            "kode_plant": "SG23",
+            "nama_plant": "PG KEDAWOENG",
+            "jenis_plant": "1",
+            "regional_code": "06",
+            "regional_name": "JATIM III",
+            "longitute": "0",
+            "latitude": "0"
+        },
+        {
+            "kode_plant": "SG24",
+            "nama_plant": "PG WONOLANGAN",
+            "jenis_plant": "1",
+            "regional_code": "06",
+            "regional_name": "JATIM III",
+            "longitute": "0",
+            "latitude": "0"
+        },
+        {
+            "kode_plant": "SG25",
+            "nama_plant": "PG GENDING",
+            "jenis_plant": "1",
+            "regional_code": "06",
+            "regional_name": "JATIM III",
+            "longitute": "0",
+            "latitude": "0"
+        },
+        {
+            "kode_plant": "SG26",
+            "nama_plant": "PG DJATIROTO",
+            "jenis_plant": "1",
+            "regional_code": "06",
+            "regional_name": "JATIM III",
+            "longitute": "0",
+            "latitude": "0"
+        },
+        {
+            "kode_plant": "SG27",
+            "nama_plant": "PG SEMBORO",
+            "jenis_plant": "1",
+            "regional_code": "06",
+            "regional_name": "JATIM III",
+            "longitute": "0",
+            "latitude": "0"
+        },
+        {
+            "kode_plant": "SG28",
+            "nama_plant": "PG WRINGINANOM",
+            "jenis_plant": "1",
+            "regional_code": "07",
+            "regional_name": "JATIM IV",
+            "longitute": "0",
+            "latitude": "0"
+        },
+        {
+            "kode_plant": "SG29",
+            "nama_plant": "PG OLEAN",
+            "jenis_plant": "1",
+            "regional_code": "06",
+            "regional_name": "JATIM III",
+            "longitute": "0",
+            "latitude": "0"
+        },
+        {
+            "kode_plant": "SG30",
+            "nama_plant": "PG PANDJIE",
+            "jenis_plant": "1",
+            "regional_code": "07",
+            "regional_name": "JATIM IV",
+            "longitute": "0",
+            "latitude": "0"
+        },
+        {
+            "kode_plant": "SG31",
+            "nama_plant": "PG ASSEMBAGOES",
+            "jenis_plant": "1",
+            "regional_code": "07",
+            "regional_name": "JATIM IV",
+            "longitute": "0",
+            "latitude": "0"
+        },
+        {
+            "kode_plant": "SG32",
+            "nama_plant": "PG PRADJEKAN",
+            "jenis_plant": "1",
+            "regional_code": "07",
+            "regional_name": "JATIM IV",
+            "longitute": "0",
+            "latitude": "0"
+        },
+        {
+            "kode_plant": "SG33",
+            "nama_plant": "PG GLENMORE",
+            "jenis_plant": "1",
+            "regional_code": "07",
+            "regional_name": "JATIM IV",
+            "longitute": "0",
+            "latitude": "0"
+        },
+        {
+            "kode_plant": "SG34",
+            "nama_plant": "PG BONE",
+            "jenis_plant": "1",
+            "regional_code": "08",
+            "regional_name": "SULAWESI",
+            "longitute": "0",
+            "latitude": "0"
+        },
+        {
+            "kode_plant": "SG35",
+            "nama_plant": "PG CAMMING",
+            "jenis_plant": "1",
+            "regional_code": "08",
+            "regional_name": "SULAWESI",
+            "longitute": "0",
+            "latitude": "0"
+        },
+        {
+            "kode_plant": "SG36",
+            "nama_plant": "PG TAKALAR",
+            "jenis_plant": "1",
+            "regional_code": "08",
+            "regional_name": "SULAWESI",
+            "longitute": "0",
+            "latitude": "0"
+        }
+    ]
+}
